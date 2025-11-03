@@ -3,7 +3,7 @@
 <h2>Bienvenido al sitio de estructuras PHP</h2>
 
 <?php
-$nombre = "Raúl";
+$nombre = "usuario";
 $fecha = date("d/m/Y");
 echo "<p>Hola, $nombre. Hoy es $fecha.</p>";
 ?>

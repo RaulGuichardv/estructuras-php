@@ -1,7 +1,6 @@
 <?php include('includes/header.php'); ?>
 
 <h2>Ejemplos de condicionales</h2>
-
 <?php
 $edad = 20;
 
